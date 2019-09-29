@@ -1,0 +1,1 @@
+hexo-html-truncate
