@@ -1,0 +1,27 @@
+{
+  "name": "hexo-html-truncate",
+  "version": "1.0.0",
+  "description": "hexo-html-truncate",
+  "main": "index.js",
+  "dependencies": {
+    "truncate-html": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriDiamond/hexo-html-truncate.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin"
+  ],
+  "author": "TriDiamond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TriDiamond/hexo-html-truncate/issues"
+  },
+  "homepage": "https://github.com/TriDiamond/hexo-html-truncate#readme"
+}
